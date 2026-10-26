@@ -18,7 +18,7 @@ My approach focuses on understanding the business problem, preparing reliable da
 
 ## Featured Project
 
-### Vitalink Healthcare | SQL Data Analysis
+### [Vitalink Healthcare | SQL Data Analysis](https://github.com/anthelm-ekpokpobe/healthcare-sql-analysis-portfolio)
 
 A healthcare analytics portfolio project focused on data quality, patient satisfaction, and facility performance.
 
